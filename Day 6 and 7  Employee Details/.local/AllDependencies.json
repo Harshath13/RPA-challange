@@ -5015,9 +5015,9 @@
     "restore": {
       "projectUniqueName": "Day 6 and 7  Employee Details",
       "projectName": "Day 6 and 7  Employee Details",
-      "projectPath": "C:\\Users\\Harshath\\Documents\\UiPath\\Day 6 and 7  Employee Details\\.local",
+      "projectPath": "C:\\Users\\Harshath\\Desktop\\RPA\\RPA-challange\\Day 6 and 7  Employee Details\\.local",
       "packagesPath": "C:\\Users\\Harshath\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Harshath\\Documents\\UiPath\\Day 6 and 7  Employee Details\\.local"
+      "outputPath": "C:\\Users\\Harshath\\Desktop\\RPA\\RPA-challange\\Day 6 and 7  Employee Details\\.local"
     },
     "frameworks": {
       "net461": {
@@ -5043,7 +5043,7 @@
             "version": "[21.4.3, 21.4.3]"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Users\\Harshath\\AppData\\Local\\UiPath\\app-21.4.3\\runtime.json"
+        "runtimeIdentifierGraphPath": "C:\\Users\\Harshath\\AppData\\Local\\UiPath\\app-21.4.4\\runtime.json"
       }
     }
   }

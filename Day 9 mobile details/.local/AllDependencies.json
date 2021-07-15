@@ -5015,9 +5015,9 @@
     "restore": {
       "projectUniqueName": "Day 9 mobile details",
       "projectName": "Day 9 mobile details",
-      "projectPath": "C:\\Users\\Harshath\\Documents\\UiPath\\Day 9 mobile details\\.local",
+      "projectPath": "C:\\Users\\Harshath\\Desktop\\RPA\\RPA-challange\\Day 9 mobile details\\.local",
       "packagesPath": "C:\\Users\\Harshath\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Harshath\\Documents\\UiPath\\Day 9 mobile details\\.local"
+      "outputPath": "C:\\Users\\Harshath\\Desktop\\RPA\\RPA-challange\\Day 9 mobile details\\.local"
     },
     "frameworks": {
       "net461": {
@@ -5043,7 +5043,7 @@
             "version": "[21.4.3, 21.4.3]"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Users\\Harshath\\AppData\\Local\\UiPath\\app-21.4.3\\runtime.json"
+        "runtimeIdentifierGraphPath": "C:\\Users\\Harshath\\AppData\\Local\\UiPath\\app-21.4.4\\runtime.json"
       }
     }
   }

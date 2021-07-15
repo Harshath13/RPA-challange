@@ -5015,9 +5015,9 @@
     "restore": {
       "projectUniqueName": "Day 5 Student Details",
       "projectName": "Day 5 Student Details",
-      "projectPath": "C:\\Users\\Harshath\\Documents\\UiPath\\Day 5 Student Details\\.local",
+      "projectPath": "C:\\Users\\Harshath\\Desktop\\RPA\\RPA-challange\\Day 5 Student Details\\.local",
       "packagesPath": "C:\\Users\\Harshath\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Harshath\\Documents\\UiPath\\Day 5 Student Details\\.local"
+      "outputPath": "C:\\Users\\Harshath\\Desktop\\RPA\\RPA-challange\\Day 5 Student Details\\.local"
     },
     "frameworks": {
       "net461": {
@@ -5043,7 +5043,7 @@
             "version": "[21.4.3, 21.4.3]"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Users\\Harshath\\AppData\\Local\\UiPath\\app-21.4.3\\runtime.json"
+        "runtimeIdentifierGraphPath": "C:\\Users\\Harshath\\AppData\\Local\\UiPath\\app-21.4.4\\runtime.json"
       }
     }
   }
